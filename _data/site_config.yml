@@ -67,9 +67,9 @@ disclaimer:
   phase: ''
   message: ''
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: hello@zrO.ec
+  suggestions: hello@zrO.ec
+  functional: hello@zrO.ec
 environment: staging
 favicons: favicon.io
 footer_language_toggle: none
@@ -106,7 +106,7 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: Net Zero Information Architecture for Sustainable Development Goal indicators on the Internet
+  title: Net Zero Information Architecture for Sustainable Development Goal indicators
   description: >-
     Click on each goal for our Sustainable Development Goal global indicator
     Net Zero Information Architecture on the Internet.
